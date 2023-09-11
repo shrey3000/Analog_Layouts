@@ -26,13 +26,13 @@ This GitHub repository includes the following contents:
 **Buffer Design Files:** The actual layout and schematic design files for the buffer, implemented in industry-standard tools like Cadence Virtuoso or similar EDA (Electronic Design Automation) software.
 
 
-Designing tool: Cadence Virtuoso
+**Designing tool:** Cadence Virtuoso
 
 
-Verification Tool (DRC & LVS): Cadence Assura
+**Verification Tool (DRC & LVS):** Cadence Assura
 
 
-PDK: gpdk90nm
+**PDK:** gpdk90nm
 
 
 ![image](https://github.com/shrey3000/Analog_Layouts/assets/72602113/ba829f92-879d-4ac0-9353-562a61e10c66)
