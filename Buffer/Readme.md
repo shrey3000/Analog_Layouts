@@ -1,13 +1,13 @@
-#Buffer Design for Integrated Circuits
+# Buffer Design for Integrated Circuits
 
-##Introduction
+## Introduction
 Welcome to the GitHub repository for the design of a buffer in integrated circuits! In this project, we will explore the concept, purpose, and design principles behind a buffer, an essential building block in modern electronic circuits.
 
-##What is a Buffer?
+## What is a Buffer?
 
 A buffer, in the context of integrated circuits, is a fundamental electronic component that plays a crucial role in signal processing. Its primary purpose is to isolate or decouple two parts of a circuit while ensuring that the signal characteristics remain unchanged. Buffers are used extensively in various applications, such as amplifiers, memory systems, and communication interfaces, where they help maintain signal integrity and drive capabilities.
 
-##The Logic Behind a Buffer
+## The Logic Behind a Buffer
 The logic behind the working of a buffer is relatively straightforward and can be summarized as follows:
 
 **Input Stage:** The buffer takes an input signal, usually referred to as "A," at its input terminal. This input signal can be a voltage or a current, depending on the specific application.
