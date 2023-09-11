@@ -48,10 +48,6 @@ This GitHub repository includes the following contents:
 
 
 
-**Documentation:** Detailed documentation describing the buffer's design, specifications, and any design considerations.
-
-**Usage Examples:** If applicable, this repository may also provide usage examples or integration guidelines for incorporating the buffer into larger electronic systems.
-
 **Conclusion**
 The design of a buffer in integrated circuits is a critical task in electronic engineering, ensuring signal integrity and proper functioning of electronic systems. This GitHub repository aims to provide insight into the purpose and logic behind buffer design, while also offering practical design files and documentation for those interested in implementing a buffer in their circuits.
 
